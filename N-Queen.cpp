@@ -4,6 +4,8 @@
 // 2. what is the restriction, time/space complexity
 // 3. corner case: n = 0
 // 4. problem type: search for all solutions, therefore its exausted search, DFS
+// 5. realize the algorithm, DFS, what is the carryon data ( Q to record prev Queen location )
+// 6. complexity: time: O(n^n)  space: O(n)
 
 class Solution {
 public:
